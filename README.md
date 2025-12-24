@@ -7,6 +7,7 @@ Member 2: Javeria Qazafi (Registration ID: B24F0468DS005)
 Member 3: Wania Shakeel (Registration ID: B24F0414DS006)
 
 Project Title: Salon Luxe - Online Salon Booking System
+
 Description: This is a full-stack web application for booking salon appointments. It allows users to sign up, login, view available time slots, book appointments with services, and see their booking history. Admins can view all bookings in a dashboard. The backend uses Python with Flask framework for API routes and DSA implementations (LinkedList for user history, BST for time slots, Quick Sort for sorting bookings). The frontend is built with React JS for dynamic UI. The database is MongoDB (NoSQL, local setup inspired by Node.js patterns). Features include VIP/Normal booking logic (30/60 min slots), responsive design, and secure authentication.
 Visuals
 
