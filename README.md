@@ -1,4 +1,4 @@
-Salon Luxe - Online Salon Booking System
+Salon Luxz - Online Salon Booking System
 
 Group Details:
 
